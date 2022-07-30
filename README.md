@@ -1,8 +1,8 @@
-# Frontend Mentor - Manage landing page
+# Frontend Mentor - YouTube Clone
 
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
-This is a solution to the [Manage landing page](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/manage-landing-page-R-0Lx_RXzf). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a YouTube Clone.
 
 ## Table of contents
 
@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Design](./design/desktop-design.jpg)
+![Desktop Design](./images/desktop.png)
 ![Mobile Design](./design/mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/manage-landing-page-ByF2inAJqe)
-- Live Site URL: [Github](https://kinjames.github.io/manage-landing-page/)
+- Solution URL: [Frontend Mentor](https://github.com/kinjames/youtube-clone)
+- Live Site URL: [Github](https://kinjames.github.io/youtube-clone/)
 
 ## My process
 
